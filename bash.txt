@@ -1,5 +1,0 @@
-git init
-git remote add origin https://github.com/oscarrecto/portal_Correos.git
-git add index.html
-git commit -m "Página Portal_Correos"
-git push -u origin main
